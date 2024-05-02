@@ -6,20 +6,12 @@
 
 #Instructions
 
-#Create an object called person
+#Create an object called 'person'
 
 #Add these fields to it with your values:
 
-#Field	    - Type     - Example Value
 
-#name       -	string   - "John Smith"
+![Screenshot 2024-05-02 113744](https://github.com/202404-Y-ZA-FSW/objects-lab/assets/110013797/b3947b20-850d-4706-bfd1-f985fe59e206)
 
-#gender	    - string   - "male"
 
-#age	      - number   - 25
-
-#isEmployed	- boolean	 - true
-
-#address	object {state, city, postalCode}	{state: "Washington", city: "Seattle", postalCode: 98122}
-
-#Create a function that logs all the keys and value pairs of the object as a string (feel free to design the string as you like the only requirments is that it should include the key and value)
+#Create a function that logs all the keys and value pairs of the object as a string (feel free to design the string as you like the only requirement is that it should include the key and value)
